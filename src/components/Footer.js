@@ -5,7 +5,9 @@ export default () => (
   <div>
     <h2 className="taCenter">
       Follow us{' '}
-      <a href="https://www.instagram.com/mybetterweb.site/">@mybetterweb.site</a>
+      <a href="https://www.instagram.com/mybetterweb.site/">
+        @mybetterweb.site
+      </a>
     </h2>
     <br />
     <InstagramFeed count="8" />

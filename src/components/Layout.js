@@ -73,7 +73,7 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/peranakanfrancis/yellowmeow />
+            <GithubCorner url="https://github.com/peranakanfrancis/yellowmeow" />
 
             <Nav subNav={subNav} />
 
